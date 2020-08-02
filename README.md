@@ -10,7 +10,7 @@ Here we have used NodeJS. And a package "Discord.js" which helps creating bot wi
 npm install
 ```
 ## Running
-To run the dot,
+To run the bot,
 - First you have to change the "BOT_TOKEN" in the config file with your bot token.
 - Now you can start the bot by running "node index.js".
 
